@@ -54,3 +54,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEER97&title_color=ff7b00&text_color=ffd700&border_color=ff7b00&bg_color=2a1a08&hide_border=false&layout=compact" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMEER97&bg_color=2a1a08&color=ffd700&line=ff7b00&point=ff2e2e&area=true&hide_border=false&border=ff7b00" width="100%" />
+</p>
