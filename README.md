@@ -46,16 +46,13 @@
 ---
 # 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-
-<p align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NAMEER97&show_icons=true&title_color=ff7b00&icon_color=ff7b00&text_color=ff7b00&border_color=ff7b00&bg_color=2a1a08&hide_border=false" width="480" />
-</p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMEER97&sideTitle=ff7b00&sideNums=ff7b00&currStreakNum=ff7b00&fire=ff7b00&ring=ff7b00&currStreakLabel=ff7b00&dates=ff7b00&border=ff7b00&bg=2a1a08&hide_border=false" width="480" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMEER97&sideTitle=ff7b00&sideNums=ff7b00&currStreakNum=ff7b00&fire=ff7b00&ring=ff7b00&currStreakLabel=ff7b00&dates=ff7b00&border=ff7b00&bg=2a1a08&hide_border=false" width="480" />
-</p>
+<br />
 
-<p align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEER97&title_color=ff7b00&text_color=ff7b00&border_color=ff7b00&bg_color=2a1a08&hide_border=false&layout=compact" width="380" />
-</p>
+</div>
