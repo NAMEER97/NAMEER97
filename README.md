@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMEER97&bg_color=2a1a08&color=ffd700&line=ff7b00&point=ff2e2e&area=true&hide_border=false&border=ff7b00" width="100%" />
+  <img src="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
