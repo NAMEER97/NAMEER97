@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 * 🎓 B.Tech in Information Technology at Delhi Technological University
-* 🌱 Currently building Agentic AI, Machine Learning, Deep Learning systems & Advanced DSA
+* 🌱 ⚙️ Engineering Agentic Workflows, Deep Learning Models, Scalable AI Solutions & Advanced DSA
 * 💻 Solving problems on LeetCode and Codeforces
 * 🤝 Open to Internship and Open Source opportunities
 * 📬 Reach me at: nameerhasan077@gmail.com
