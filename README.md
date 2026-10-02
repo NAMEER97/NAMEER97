@@ -58,6 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEER97&title_color=ff7b00&text_color=ff7b00&border_color=ff7b00&bg_color=0d1117&hide_border=false&layout=compact" width="380" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEER97&theme=synthwave&hide_border=false&layout=compact" width="380" />
-</p>
