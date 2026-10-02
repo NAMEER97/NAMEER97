@@ -48,6 +48,6 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMEER97&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEER97&layout=compact&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NAMEER97&show_icons=true&theme=dark" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEER97&layout=compact&theme=dark" height="250" />
 </p>
