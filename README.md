@@ -47,11 +47,11 @@
 # 📊 GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMEER97&show_icons=true&title_color=ff7b00&icon_color=ff7b00&text_color=ff7b00&border_color=ff7b00&bg_color=2a1a08&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMEER97&sideTitle=ff7b00&sideNums=ff7b00&currStreakNum=ff7b00&fire=ff7b00&ring=ff7b00&currStreakLabel=ff7b00&dates=ff7b00&border=ff7b00&bg=2a1a08&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NAMEER97&show_icons=true&include_all_commits=true&title_color=ff7b00&icon_color=ff7b00&text_color=ffd700&border_color=ff7b00&bg_color=2a1a08&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMEER97&sideTitle=ffd700&sideNums=ffd700&currStreakNum=ff2e2e&fire=ff2e2e&ring=ff2e2e&currStreakLabel=ffd700&dates=ffd700&border=ff7b00&bg=2a1a08&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEER97&title_color=ff7b00&text_color=ff7b00&border_color=ff7b00&bg_color=2a1a08&hide_border=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEER97&title_color=ff7b00&text_color=ffd700&border_color=ff7b00&bg_color=2a1a08&hide_border=false&layout=compact" width="48%" />
 </p>
 
