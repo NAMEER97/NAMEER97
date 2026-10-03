@@ -1,4 +1,6 @@
-#  <P align="center"> ABOUT ME </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffff66&stroke=ff7b00&strokeWidth=1&height=120&section=header&text=NAMEER%20HASAN&fontSize=50&fontAlignY=50" width="100%" />
+</p>
 
 *  B.Tech in Information Technology at Delhi Technological University (DTU)
 *  Engineering Agentic Workflows, Deep Learning Models, Scalable AI Solutions & Advanced DSA
