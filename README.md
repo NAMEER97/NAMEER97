@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  <P align="center"> ABOUT ME </p>
 
 *  B.Tech in Information Technology at Delhi Technological University (DTU)
 *  Engineering Agentic Workflows, Deep Learning Models, Scalable AI Solutions & Advanced DSA
