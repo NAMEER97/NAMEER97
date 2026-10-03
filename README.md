@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffff66&stroke=ff7b00&strokeWidth=1&height=120&section=header&text=NAMEER%20HASAN&fontSize=50&fontAlignY=50" width="100%" />
+  
+<p align="left">
+  <img src="https://img.shields.io/badge/EDUCATION-000000?style=for-the-badge&logo=graduation-cap&logoColor=ffff66" /> B.Tech in Information Technology at Delhi Technological University (DTU)<br>
+  <img src="https://img.shields.io/badge/FOCUS-000000?style=for-the-badge&logo=codefactor&logoColor=ffff66" /> Engineering Agentic Workflows, Deep Learning Models, Scalable AI Solutions & Advanced DSA<br>
+  <img src="https://img.shields.io/badge/PRACTICE-000000?style=for-the-badge&logo=leetcode&logoColor=ffff66" /> Solving problems on LeetCode and Codeforces<br>
+  <img src="https://img.shields.io/badge/STATUS-000000?style=for-the-badge&logo=target&logoColor=ffff66" /> Actively seeking Software Engineering & AI Internships | Passionate about Open Source<br>
+  <img src="https://img.shields.io/badge/REACH_ME_AT-000000?style=for-the-badge&logo=gmail&logoColor=ffff66" /> <a href="mailto:nameerhasan077@gmail.com">nameerhasan077@gmail.com</a>
 </p>
-
-*  B.Tech in Information Technology at Delhi Technological University (DTU)
-*  Engineering Agentic Workflows, Deep Learning Models, Scalable AI Solutions & Advanced DSA
-*  Solving problems on LeetCode and Codeforces
-*  Actively seeking Software Engineering & AI Internships | Passionate about Open Source
-*  Reach me at: nameerhasan077@gmail.com
 
 ---
 <div align="center">
@@ -61,6 +62,5 @@
 </p>
 
 <div align="center">
-
 
 
