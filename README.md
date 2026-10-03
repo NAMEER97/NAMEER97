@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=044B46&stroke=ff7b00&strokeWidth=1&height=100&section=header&text=NAMEER%20HASAN&fontSize=50&fontAlignY=50" width="110%" />
 
+<a href="https://github.com/Ali-hey-0">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=650&lines=Engineering+deterministic+systems+around+LLMs;Edge+AI+%26+Audio%2FSpeech+ML+pipelines;Rust+for+high-performance+systems;Security-first+engineering+practices;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</a>
+
 <p align="left">
   <img src="https://img.shields.io/badge/EDUCATION-000000?style=for-the-badge&logo=graduation-cap&logoColor=ffff66" /> B.Tech in Information Technology at Delhi Technological University (DTU)<br>
   <img src="https://img.shields.io/badge/FOCUS-000000?style=for-the-badge&logo=codefactor&logoColor=ffff66" /> Engineering Agentic Workflows, Deep Learning Models, Scalable AI Solutions & Advanced DSA<br>
