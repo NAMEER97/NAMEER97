@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffff66&stroke=ff7b00&strokeWidth=1&height=120&section=header&text=NAMEER%20HASAN&fontSize=50&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=044B46&stroke=ff7b00&strokeWidth=1&height=120&section=header&text=NAMEER%20HASAN&fontSize=50&fontAlignY=50" width="100%" />
   
 <p align="left">
   <img src="https://img.shields.io/badge/EDUCATION-000000?style=for-the-badge&logo=graduation-cap&logoColor=ffff66" /> B.Tech in Information Technology at Delhi Technological University (DTU)<br>
