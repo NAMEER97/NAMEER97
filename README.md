@@ -79,7 +79,7 @@
 <!--                 CONTRIBUTION ANALYTICS                    -->
 <!-- ========================================================= -->
 
-<h1 align="left">📈 Contribution Analytics:</h1>
+<h1 align="left"> 📈 Contribution Analytics:</h1>
 
 <p align="left">
   <a href="https://github.com/NAMEER97">
@@ -93,12 +93,14 @@
 
 ---
 
-## Contribution Snake
+<h1 align="left">Contribution Snake:</h1>
 
-<div align="center">
+<div align="LEFT">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
