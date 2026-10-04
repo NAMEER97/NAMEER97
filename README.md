@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sanvviratthore&label=Profile%20views&color=0e75b6&style=flat" alt="Nameer" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=044B46&stroke=ff7b00&strokeWidth=1&height=100&section=header&text=NAMEER%20HASAN&fontSize=50&fontAlignY=50" width="110%" />
 
