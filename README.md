@@ -40,7 +40,7 @@
 </div>
 
 ---
-# 🌐 Socials:
+# 🌐 Socials::
 
 <p align="left">
   <a href="mailto:YOUR_EMAIL@gmail.com">
