@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sanvviratthore&label=Profile%20views&color=0e75b6&style=flat" alt="Nameer" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=044B46&stroke=ff7b00&strokeWidth=1&height=100&section=header&text=NAMEER%20HASAN&fontSize=50&fontAlignY=50" width="110%" />
 
@@ -15,6 +11,10 @@
   <img src="https://img.shields.io/badge/PRACTICE-000000?style=for-the-badge&logo=leetcode&logoColor=ffff66" /> Solving problems on LeetCode and Codeforces<br>
   <img src="https://img.shields.io/badge/STATUS-000000?style=for-the-badge&logo=target&logoColor=ffff66" /> Actively seeking Software Engineering & AI Internships | Passionate about Open Source<br>
   <img src="https://img.shields.io/badge/REACH_ME_AT-000000?style=for-the-badge&logo=gmail&logoColor=ffff66" /> <a href="mailto:nameerhasan077@gmail.com">nameerhasan077@gmail.com</a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NAMEER97&label=Profile%20views&color=0e75b6&style=flat" alt="NAMEER97" />
 </p>
 
 ---
