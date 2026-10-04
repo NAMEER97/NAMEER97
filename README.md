@@ -74,4 +74,19 @@
 
 <div align="center">
 
+---
+<!-- ========================================================= -->
+<!--                 CONTRIBUTION ANALYTICS                    -->
+<!-- ========================================================= -->
 
+<h1 align="left">📈 Contribution Analytics</h1>
+
+<p align="left">
+  <a href="https://github.com/NAMEER97">
+    <img
+      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=NAMEER97&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
+      alt="Nameer Hasan's GitHub Contribution Analytics"
+      width="98%"
+    />
+  </a>
+</p>
