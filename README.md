@@ -93,14 +93,30 @@
 
 ---
 
-<h1 align="left">Contribution Snake:</h1>
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION ACTIVITY                    -->
 
-<div align="LEFT">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake.svg">
-  </picture>
+<h1 align="left">🐍 Contribution Activity</h1>
+<div align="left">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/NAMEER97/NAMEER97/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Activity - Last 365 Days"
+    width="100%"
+  />
+
+</picture>
+
 </div>
-
----
