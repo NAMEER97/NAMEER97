@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<h3 align="center"> Languages & Core Webb</h3>
+<h3 align="center"> Languages & Core Web</h3>
 <p align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></p>
 
 <h3 align="center"> Frontend & Design</h3>
